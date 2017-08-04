@@ -22,7 +22,7 @@ A lot of inquisitiveness, perseverance, and passion is required to build a stron
  * Basics of machine learning and data analysis
  * Proficiency in R programming
  * Basics of Python and Docker
-Lastly, you need to appreciate deep learning algorithms and know how they solve complex problems in multiple domains.
+Lastly, you need to appreciate deep learning algorithms and know how they solve complex problems in multiple domains
 
 ## Related Products
 * [R Deep Learning Essentials](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781785280580)
