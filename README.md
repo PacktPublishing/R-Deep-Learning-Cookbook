@@ -19,9 +19,9 @@ The code will look like the following:
 ```
 
 A lot of inquisitiveness, perseverance, and passion is required to build a strong background in data science. The scope of deep learning is quite broad; thus, the following backgrounds is required to effectively utilize this cookbook: 
-Basics of machine learning and data analysis
-Proficiency in R programming
-Basics of Python and Docker
+ * Basics of machine learning and data analysis
+ * Proficiency in R programming
+ * Basics of Python and Docker
 Lastly, you need to appreciate deep learning algorithms and know how they solve complex problems in multiple domains.
 
 ## Related Products
